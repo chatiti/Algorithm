@@ -55,18 +55,6 @@ build CMakeFiles/Algorithm.dir/main.cpp.obj: CXX_COMPILER__Algorithm_Debug E$:/C
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
-build CMakeFiles/Algorithm.dir/Leetcode/225._用队列实现栈.cpp.obj: CXX_COMPILER__Algorithm_Debug E$:/C++Project/Algorithm/Leetcode/225.$ 用队列实现栈.cpp || cmake_object_order_depends_target_Algorithm
-  DEP_FILE = CMakeFiles\Algorithm.dir\Leetcode\225._用队列实现栈.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Algorithm.dir
-  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Leetcode
-
-build CMakeFiles/Algorithm.dir/Leetcode/88._合并两个有序数组.cpp.obj: CXX_COMPILER__Algorithm_Debug E$:/C++Project/Algorithm/Leetcode/88.$ 合并两个有序数组.cpp || cmake_object_order_depends_target_Algorithm
-  DEP_FILE = CMakeFiles\Algorithm.dir\Leetcode\88._合并两个有序数组.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Algorithm.dir
-  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Leetcode
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Algorithm
@@ -75,7 +63,7 @@ build CMakeFiles/Algorithm.dir/Leetcode/88._合并两个有序数组.cpp.obj: CX
 #############################################
 # Link the executable Algorithm.exe
 
-build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Debug CMakeFiles/Algorithm.dir/main.cpp.obj CMakeFiles/Algorithm.dir/Leetcode/225._用队列实现栈.cpp.obj CMakeFiles/Algorithm.dir/Leetcode/88._合并两个有序数组.cpp.obj
+build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Debug CMakeFiles/Algorithm.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Algorithm.dir
