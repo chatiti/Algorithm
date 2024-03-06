@@ -1,4 +1,14 @@
 # ninja log v5
-0	241	7314043398233084	build.ninja	f3003b61454caf8f
-4	1800	7312320141770286	CMakeFiles/Algorithm.dir/main.cpp.obj	cd4269df51bdad5a
-1801	2007	7312320143784962	Algorithm.exe	ec1fd9fc404d3256
+1	246	7314133688967021	build.ninja	f3003b61454caf8f
+3	1468	7314129109707852	CMakeFiles/Algorithm.dir/main.cpp.obj	cd4269df51bdad5a
+1469	1614	7314129111126478	Algorithm.exe	af99f87f955ed7c9
+3	1483	7314130119406024	CMakeFiles/Algorithm.dir/Leetcode/26.cpp.obj	3c61b13f4c05df6e
+1	195	7314133688967021	build.ninja	f3003b61454caf8f
+3	1885	7314133708088089	CMakeFiles/Algorithm.dir/main.cpp.obj	cd4269df51bdad5a
+1885	2069	7314133709878772	Algorithm.exe	ec1fd9fc404d3256
+3	1575	7314134349970656	CMakeFiles/Algorithm.dir/main.cpp.obj	cd4269df51bdad5a
+1576	1744	7314134351627381	Algorithm.exe	ec1fd9fc404d3256
+3	1678	7314135055482451	CMakeFiles/Algorithm.dir/main.cpp.obj	cd4269df51bdad5a
+1681	1838	7314135057036157	Algorithm.exe	ec1fd9fc404d3256
+3	1432	7314138419450568	CMakeFiles/Algorithm.dir/main.cpp.obj	cd4269df51bdad5a
+1432	1579	7314138420888541	Algorithm.exe	ec1fd9fc404d3256
