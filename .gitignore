@@ -2,3 +2,4 @@ main*
 *.txt
 .vscode
 cmake-build-debug
+.idea
